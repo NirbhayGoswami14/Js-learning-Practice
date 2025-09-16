@@ -4,7 +4,7 @@ let bool=true
 // conversion operations
 
 let num=Number(str)
-let num1=Number(bool)
+let num1=Number(bool) 
 
 //console.log(typeof num)
 //console.log(num)
